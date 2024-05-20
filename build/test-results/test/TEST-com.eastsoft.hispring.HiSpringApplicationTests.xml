@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.eastsoft.hispring.HiSpringApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-28T01:31:32" hostname="DESKTOP-NJMEPVV" time="0.717">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.eastsoft.hispring.HiSpringApplicationTests" time="0.717"/>
+  <system-out><![CDATA[10:31:30.800 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.eastsoft.hispring.HiSpringApplicationTests]: HiSpringApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+10:31:30.893 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.eastsoft.hispring.HiSpringApplication for test class com.eastsoft.hispring.HiSpringApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+2024-02-28T10:31:31.254+09:00  INFO 16860 --- [    Test worker] c.e.hispring.HiSpringApplicationTests    : Starting HiSpringApplicationTests using Java 17.0.10 with PID 16860 (started by 2rl91 in C:\Users\2rl91\workspace\hi-spring)
+2024-02-28T10:31:31.255+09:00  INFO 16860 --- [    Test worker] c.e.hispring.HiSpringApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-02-28T10:31:32.180+09:00  INFO 16860 --- [    Test worker] c.e.hispring.HiSpringApplicationTests    : Started HiSpringApplicationTests in 1.127 seconds (process running for 2.369)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
